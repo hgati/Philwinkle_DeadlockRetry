@@ -1,5 +1,5 @@
 {
-    "name": "philwinkle/deadlockretry",
+    "name": "hgati/philwinkle-deadlockretry",
     "type"       : "magento-module",
     "description": "Retries upon detected deadlock.",
     "license": "Apache-2.0",
