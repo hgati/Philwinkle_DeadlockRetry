@@ -1,7 +1,7 @@
 Philwinkle_DeadlockRetry [No Longer Supported]
 ========================
 
-Notice: use Aoe_DbRetry
+Notice: use Aoe_DbRetry for >= Magento v1.8, otherwize use this one
 --
 
 As of October 6, 2015 this module is retired. I fully recommend using [https://github.com/AOEpeople/Aoe_DbRetry](https://github.com/AOEpeople/Aoe_DbRetry) for future-compatible Deadlock (and more!) Magento issues.
